@@ -26,7 +26,7 @@ Model Types:
 * XG Boost
 
 
-## Conclusion & Next Steps
+## Conclusion
 
 The model which is best fit for predicting if someone received the seasonal flu vaccine is the logistic regression model. It will accurately predict 78% of the time if someone received the seasonal flu vaccine.
 
@@ -48,4 +48,17 @@ After modeling and EDA, it is the suggestion to the stakeholder to target three 
 
 ![Age_Group.png](./Images/Age_Group.png)
 
+## Next Steps
+
+A best fit model was able to be created for the stakeholder by utilizing the the data from the National 2009 H1N1 Flu Survey focusing on the seasonal flu vaccine.  The reccomendation to the stakeholder in their efforts moving forward to target the following demographics in education and awareness prior to the following flu season:
+
+* Those who not view the seasonal flu as a risk
+* Those whose doctor does not reccomend the vaccine
+* Those who do not view the vaccine as effective
+* Those who are in the age group of 18-34 years old.
+
+The stakeholder can also target the following:
+
+* Those who fall below the poverty line
+* Those who are currenlty unemployed.
 
